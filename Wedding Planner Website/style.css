@@ -1,0 +1,62 @@
+/* Name: Sara Jane Kenny Class: CC */
+
+#bgindex	{background-image:url(Images/homepage.jpg);
+			 background-size: 100% 100%;
+			 background-attachment: fixed;
+			 font-family: serif;
+			 }
+
+#bgcontact	{background-image:url(Images/contactimage.jpg);
+			 background-size: 100% 100%;
+			 background-attachment: fixed;
+			 font-family: serif;
+			 }
+
+
+#wrapperindex	{width:70%;
+			margin:10px auto;
+			padding:50px;
+			text-align:center;
+			color: purple;
+			}
+			
+#textdefault {color:black;
+			text-align:center;}
+			
+#bgdefault		{background-color: #D8BFD8;
+			 background-size: 100% 100%;
+			 background-attachment: fixed;
+			 font-family: serif;
+			 }
+
+
+#wrapperdefault	{width:100%;
+			margin:10px auto;
+			color: purple;
+			}
+
+#table {border: none;
+		}
+		
+#th, td {border: border;
+		background-color: #dddddd;
+		color: black;
+		padding: 5px;
+		width: 100px;
+		background-position: center;}			
+
+#nav a:link, #nav a:visited	{
+	color:grey;
+	text-decoration:none;
+	}
+	
+#nav a:hover	{
+	color:purple;
+	font-style: italic;
+	text-decoration: relative;
+	}
+	
+#footer {text-align:right;
+		 color:grey;
+		 font-size:small;
+		 }
